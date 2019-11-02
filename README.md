@@ -15,6 +15,5 @@
 * Папка **rubukkit** - картинки для темы на Rubukkit (не для вас).
 ***
 ## Полезные ссылки
-[CraftTweaker на CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) | [Тема на Rubukkit](http://rubukkit.org/threads/ispravlenija-receptov-v-modax-minetweaker-crafttweaker.163629/)
-
+[CraftTweaker на CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 [Документация 1.7.10](http://minetweaker3.powerofbytes.com/wiki/Main_Page) | [Документация 1.12.2](https://docs.blamejared.com/1.12/en/)
