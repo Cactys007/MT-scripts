@@ -11,3 +11,8 @@
 	vanilla.seeds.addSeed(<minecraft:flint>.weight(2));
 	vanilla.seeds.addSeed(<minecraft:feather>.weight(2));
 	vanilla.seeds.addSeed(<minecraft:string>.weight(2));
+	
+// Подсказка для деревянного топора
+	<minecraft:wooden_axe>.addTooltip("§cВнимание! Используется только для выделения территории!");
+	<minecraft:wooden_axe>.addTooltip("§aПодробный гайд по созданию привата Вы можете посмотреть ");
+	<minecraft:wooden_axe>.addTooltip("§aна сайте §6cavecraft.ru > Поддержка > Как приватить территорию? ");
